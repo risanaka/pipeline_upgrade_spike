@@ -1,0 +1,7 @@
+{
+  "version_current_preview": "1.1.0668",
+  "version_current_stable": "1.1.0612",
+  "version_minimum_preview": "1.1.0612",
+  "version_minimum_stable": "1.1.0612",
+  "version_minimum_release": "1.1.0698"
+}
