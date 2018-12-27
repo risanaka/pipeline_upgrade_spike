@@ -1,7 +1,7 @@
 {
-  "version_current_preview": "1.1.0668",
-  "version_current_stable": "1.1.0612",
-  "version_minimum_preview": "1.1.0612",
-  "version_minimum_stable": "1.1.0612",
-  "version_release": "1.1.0698"
+  "version_current_preview": {"version": "1.1.0668", "msi_asset_url": "https://github.com/babylonbee/pipeline_upgrade_spike/releases/download/v1.1.0668/cdburner_xp_setup.msi"},
+  "version_current_stable": {"version": "1.1.0612", "msi_asset_url": "https://github.com/babylonbee/pipeline_upgrade_spike/releases/download/v1.1.0612/cdburner_xp_setup.msi"},
+  "version_minimum_preview": {"version": "1.1.0612", "msi_asset_url": "https://github.com/babylonbee/pipeline_upgrade_spike/releases/download/v1.1.0612/cdburner_xp_setup.msi"},
+  "version_minimum_stable": {"version": "1.1.0612", "msi_asset_url": "https://github.com/babylonbee/pipeline_upgrade_spike/releases/download/v1.1.0612/cdburner_xp_setup.msi"},
+  "version_release": {"version": "1.1.0698", "msi_asset_url": "https://github.com/babylonbee/pipeline_upgrade_spike/releases/download/v1.1.0698/cdburner_xp_setup.msi"}
 }
