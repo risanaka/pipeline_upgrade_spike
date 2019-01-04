@@ -7,7 +7,7 @@
   },
   "stable": {
     "current_version": "1.1.0968",
-    "minimum_version": "1.1.0912",
+    "minimum_version": "1.1.0612",
     "installer_url": "https://github.com/babylonbee/pipeline_upgrade_spike/releases/download/v1.1.0968/cdburner_xp_setup.msi",
     "release_notes_url": "https://github.com/babylonbee/pipeline_upgrade_spike/releases/download/v1.1.0968/releasenotes.html"
   }
