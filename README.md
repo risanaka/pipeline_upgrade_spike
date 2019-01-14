@@ -1,4 +1,4 @@
-We will be using the following data format in the global config file to keep the upgrade info:
+We will be using the following data format in the global config file to keep the upgrade information:
 
 {
   "preview": {
