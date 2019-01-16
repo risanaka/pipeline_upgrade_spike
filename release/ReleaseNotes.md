@@ -1,3 +1,5 @@
+![Image](http://engaged.robbinsbrothers.com/wp-content/uploads/2013/08/Seattle-Washington-Space-Needle.jpg)
+
 # Catalog
 * [Heading 1](#Heading-1)
 * [Heading 2](#Heading-2)
