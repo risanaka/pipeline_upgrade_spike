@@ -1,5 +1,5 @@
 {
-  "default": {
+  "stable": {
     "current_version": "1.1.0968",
     "minimum_version": "1.1.0612",
     "installer_url": "https://github.com/DaveTryon/pipeline_upgrade_spike/Channels/Insider/download/v1.1.0968/cdburner_xp_setup.msi",
