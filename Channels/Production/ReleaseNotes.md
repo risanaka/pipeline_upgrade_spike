@@ -1,3 +1,6 @@
+---
+title: Document Center
+---
 ![Image](http://engaged.robbinsbrothers.com/wp-content/uploads/2013/08/Seattle-Washington-Space-Needle.jpg)
 
 # Catalog
